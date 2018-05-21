@@ -1,10 +1,10 @@
 # facebook_liker
 Do you want a social life? 
 
-## Are you to busy 
-...To use facebook and your friends keep complaining that you don't like there facebook post?
+## Are you too busy 
+...To use Facebook and your friends keep complaining that you don't like their facebook post?
 
-## Now no more tesion 
+## Now no more tension 
  Use this auto liker and it will like post for you!!!
  
 # How is it working?
