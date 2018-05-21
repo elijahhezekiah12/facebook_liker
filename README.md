@@ -8,4 +8,7 @@ Do you want a social life?
  Use this auto liker and it will like post for you!!!
  
 # How is it working?
-It uses selenium webdriver to simulate user behaviour in browser.    
+It uses selenium webdriver to simulate user behaviour in browser.   
+
+# What you need to run this?
+You would need python on your system along with internet connection and also firefox.
